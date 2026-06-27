@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<video src="https://github.com/user-attachments/assets/d4ba55fb-881f-45be-bcf3-db93fdbee0c9" autoplay loop muted playsinline width="700"></video>
+<!-- <video src="https://github.com/user-attachments/assets/d4ba55fb-881f-45be-bcf3-db93fdbee0c9" autoplay loop muted playsinline width="700"></video> -->
 
 offensive security · adversary emulation · C2 development
 </div>
