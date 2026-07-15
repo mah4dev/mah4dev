@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=9E9E9E&fontAlign=0&fontAlignY=0"/>
 <table>
 <tr>
 <td valign="top">
@@ -22,7 +21,10 @@
   [+] exploit development    loaded
   [i] 4 modules ready — standing by
 
+
   └─$ _ 
+
+  
 </pre>
 <b>// stack</b><br/>
 <img src="https://img.shields.io/badge/C-1c1c1c?style=flat-square&logo=c&logoColor=white" />
@@ -47,4 +49,3 @@
 </td>
 </tr>
 </table>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=9E9E9E&section=footer"/>
