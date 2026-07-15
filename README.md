@@ -1,47 +1,54 @@
-```
-                                                                                        __ ,..---.._
-                                                                                      +''''`--''-..`--..__
-                                                                                     .\ _,/:i--._`:-:+._`.``-._
-                                                                                    /`.._,,' \   `-.``--:.b....=.
-                                                                                   |`..__,,..`.    '`.__::i--.-::_
-                                                                                   )- .....--i'\..      --+`'''-'
-                                                                                 ,' .'.._,.-'|._-b\
-                                                                                /,'<'    V   `oi| \\             _.
-                                                                               |/ -|,--.." ,'-. ||\..      _.,;:'_<'
-                                                                               ''/ | <o> . <o>' |\||'\    /-'_/' `.
-                                                                              |,','|    , .    .-.|:.`.  + .,:..  |
- ┌──(trishul@trishul)-[~]                                                  ._,:'/ /-\   '^'   -Y"\\ |.| || /,+8d| |
- └─$ ./trishul init                                                      .|/,'| |/':: ':=:' ,'|  | | \\|| "+)='  |
-                                                                          |+,';' /|_/ \     _/ \b':.\  \'| .||   ,'
-  ╔════════════════════════════════════════════════╗                      ,,:-i''_i' | ``-.Y',. ,|`: | \;- | |_,'
-  ║                                                ║                __   |'| |i:'._ ,'     ,' ,; | |-)-'  __--:b__
-  ║ ___________      .__       .__          .__    ║               .P|   | |/,'|\  - ._   /  /   _,Y-   ,:/'  `.  `'".._
-  ║ \__    ___/______|__| _____|  |__  __ __|  |   ║              ,'|| -','' | ._i._   `':| ,..,'     ,Y;'      \       `- ._
-  ║   |    |  \_  __ \  |/  ___/  |  \|  |  \  |   ║             |||||,..    | \ '-.._ _,' /       _,b-'         `.         '-.
-  ║   |    |   |  | \/  |\___ \|   Y  \  |  /  |__ ║             ||||P..i,  .| '....,-' _,'''''-'''               '    _,..    `\
-  ║   |____|   |__|  |__/____  >___|  /____/|____/ ║             +'`   <'/  |`-.....---'                       ._         ,._
-  ║                          \/     \/             ║              |      |                                    ,'``,:-''''/,--`.
-  ║                                                ║             Y|.b_,,:  |              ||                 ,;,Y'      /     |.
-  ╚════════════════════════════════════════════════╝           ,' /'----' .'|   ..       |  |         '"   .`Y'     .,-b_....;;,.
-                                                              |+|,'     | | \.,  '      ,'  `:.  _     ,/__`     _=:  _,'``-
-  [*] initializing operator profile ...                      / +,'      | /\_........:.'      '"----:::::'Y  .'.|   |||
-  [+] offensive security     loaded                          |' '      .'/- \\                          /'|| || |   |||
-  [+] adversary emulation    loaded                          |||      /|     \L                        /'|| ||/ |   |||
-  [+] reverse engineering    loaded                          `.|    ,'/       .|                      / ,'||/o;/    |||
-  [+] exploit development    loaded                            `..._,,         |                      |/|   '       |||
-  [i] 4 modules ready — standing by                              ``-'          |                      |,            |||
-                                                                               |          ,.          |             |||
-  └─$ _                                                     ,=--------....     |          ""          |             |||
-                                                          ,/,'.            i=..+._             ,..    '..;---:::''- | |
-                                                          '/|           __....b `-''`---....../.,Y'''''j:.,.._      | `._
-                                                          .'      _.Y.-'       `..       ii:,'--------' |     :-+. .| | b\
-                                                          |     .=_,.---'''''--...:..--:'  /         _..-----..:=   | | '|\
-                                                          |    '-''`'---                  ---'_,,,--''           `,.. |  | \.
-                                                           \  .                      ,' _,--''        :xp:      _,/ |||   |  \
-                                                          `::b\`                 _,-i,-'                 ,..---'    ,|:|  | _|
-                                                          `'--.:-._      ____,,,;.,'' `--._      ''''''''           |'|' .'  '
-                                                               ``'--....Y''-'              `''--..._..____._____...,' |  'o-'
-                                                                                                       `''''`'''i==_+=_=i__
-                                                                                                               ||'''- '    `.
-                                                                                                                `-.......-''
-```
+<table>
+<tr>
+<td valign="top">
+<pre>
+ ┌──(trishul@trishul)-[~]
+ └─$ ./trishul init
+  ╔════════════════════════════════════════════════╗
+  ║                                                ║ 
+  ║ ___________      .__       .__          .__    ║ 
+  ║ \__    ___/______|__| _____|  |__  __ __|  |   ║
+  ║   |    |  \_  __ \  |/  ___/  |  \|  |  \  |   ║ 
+  ║   |    |   |  | \/  |\___ \|   Y  \  |  /  |__ ║
+  ║   |____|   |__|  |__/____  &gt;___|  /____/|____/ ║ 
+  ║                          \/     \/             ║
+  ║                                                ║ 
+  ╚════════════════════════════════════════════════╝ 
+  [*] initializing operator profile ...
+  [+] offensive security     loaded 
+  [+] adversary emulation    loaded                         
+  [+] reverse engineering    loaded 
+  [+] exploit development    loaded
+  [i] 4 modules ready — standing by
+
+  └─$ _ 
+</pre>
+<img src="https://img.shields.io/badge/RED_TEAM-9e1d1d?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/ADVERSARY_EMULATION-0d0d0d?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/REVERSE_ENGINEERING-9e1d1d?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLOIT_DEV-0d0d0d?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/C2_DEV-9e1d1d?style=flat-square&logoColor=white" />
+<br/><br/>
+<b>// stack</b><br/>
+<img src="https://img.shields.io/badge/C-1c1c1c?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-1c1c1c?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-1c1c1c?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/x86--64_ASM-1c1c1c?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-1c1c1c?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-1c1c1c?style=flat-square&logo=powershell&logoColor=white" />
+<br/><br/>
+<b>// arsenal</b><br/>
+<img src="https://img.shields.io/badge/Ghidra-1c1c1c?style=flat-square&logo=ghidra&logoColor=white" />
+<img src="https://img.shields.io/badge/GDB_+_pwndbg-1c1c1c?style=flat-square&logo=gnu&logoColor=white" />
+<img src="https://img.shields.io/badge/pwntools-1c1c1c?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/NetExec-1c1c1c?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/BloodHound-1c1c1c?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-1c1c1c?style=flat-square&logo=linux&logoColor=white" />
+<br/><br/>
+
+</td>
+<td valign="top">
+<img width="520" height="769" alt="Image" src="https://github.com/user-attachments/assets/879a0350-b2a4-45cd-9211-1d3f9860e185" />
+</td>
+</tr>
+</table>
