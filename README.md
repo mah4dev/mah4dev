@@ -23,12 +23,6 @@
 
   └─$ _ 
 </pre>
-<img src="https://img.shields.io/badge/RED_TEAM-9e1d1d?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/ADVERSARY_EMULATION-0d0d0d?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/REVERSE_ENGINEERING-9e1d1d?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/EXPLOIT_DEV-0d0d0d?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/C2_DEV-9e1d1d?style=flat-square&logoColor=white" />
-<br/><br/>
 <b>// stack</b><br/>
 <img src="https://img.shields.io/badge/C-1c1c1c?style=flat-square&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-1c1c1c?style=flat-square&logo=python&logoColor=white" />
