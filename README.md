@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Rust-1c1c1c?style=flat-square&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/x86--64_ASM-1c1c1c?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-1c1c1c?style=flat-square&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-1c1c1c?style=flat-square&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-1c1c1c?style=flat-square&logo=javascript&logoColor=white" />
 <br/><br/>
 <b>// arsenal</b><br/>
 <img src="https://img.shields.io/badge/Ghidra-1c1c1c?style=flat-square&logo=ghidra&logoColor=white" />
