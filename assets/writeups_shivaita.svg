@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100.5" height="30" viewBox="0 0 100.5 30">
+  <rect x="0.5" y="0.5" width="99.5" height="29" rx="4" fill="#0d0d0d" stroke="rgba(209,48,48,0.45)" stroke-width="1"/>
+  <g transform="translate(9,9.24) scale(0.72)" stroke-linecap="round"><path d="M1,3 L15,3"  stroke="#e2ddd6" stroke-width="1.7"/><path d="M1,8 L15,8"  stroke="#e2ddd6" stroke-width="1.7"/><path d="M1,13 L15,13" stroke="#e2ddd6" stroke-width="1.7"/><circle cx="8" cy="8" r="1.9" fill="#d13030" stroke="none"/></g>
+  <text x="28.5" y="19.4" font-family="'JetBrains Mono','Courier New',monospace" font-size="12.5" fill="#d13030" letter-spacing="0.5" xml:space="preserve">writeups</text>
+</svg>
