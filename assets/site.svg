@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56.0" height="28" viewBox="0 0 56.0 28">
+  <rect x="0.5" y="0.5" width="55.0" height="27" rx="3" fill="#0d0d0d" stroke="rgba(209,48,48,0.45)" stroke-width="1"/>
+  <rect x="1" y="1" width="3" height="26" rx="1.5" fill="#d13030"/>
+  <text x="13" y="18.4" font-family="'JetBrains Mono','Courier New',monospace" font-size="12.5" fill="#d13030" letter-spacing="0.5" xml:space="preserve">site</text>
+</svg>
